@@ -60,6 +60,7 @@ npm run preview
 ```
 
 ## 💻 Wireframes
+![Home](WireframesFigma/home.png)
 
 ---
 
