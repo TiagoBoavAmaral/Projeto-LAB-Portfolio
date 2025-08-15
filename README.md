@@ -59,6 +59,8 @@ npm run build
 npm run preview
 ```
 
+## 💻 Wireframes
+
 ---
 
 
