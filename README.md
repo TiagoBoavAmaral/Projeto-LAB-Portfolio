@@ -1,13 +1,8 @@
 # Portfólio Profissional — Tiago Boaventura Amaral
 
-Template genérico do Lab01S01 para a disciplina **Laboratório de Desenvolvimento de Software**.
+**Disciplina:** Laboratório de Desenvolvimento de Software (João Aramuni)  
+**Alunos:** Kayque Allan e Tiago Boaventura Amaral
 
-## 🎯 Escopo desta Sprint (S01)
-
-- Repositório inicial com README.
-- Wireframes.
-- Protótipo inicial do front-end com **React + Vite**.
-- Navegação entre seções e layout principal (cabeçalho, conteúdo, rodapé).
 
 ## 🧱 Tecnologias previstas
 
@@ -63,5 +58,3 @@ npm run preview
 
 ---
 
-**Disciplina:** Laboratório de Desenvolvimento de Software (João Aramuni)  
-**Alunos:** Kayque Allan e Tiago Boaventura Amaral
