@@ -61,18 +61,23 @@ npm run preview
 
 ## 💻 Wireframes
 **Home:**
+
 ![Home](WireframesFigma/home.png)
 
 **Sobre Mim:**
+
 ![Sobre](WireframesFigma/sobre.png)
 
 **Experiências:**
+
 ![Experiencias](WireframesFigma/experiencias.png)
 
 **Projetos:**
+
 ![Projetos](WireframesFigma/projetos.png)
 
 **Contatos:**
+
 ![Contatos](WireframesFigma/contatos.png)
 
 ---
